@@ -1,2 +1,2 @@
 # Crop-Classification-Champaign
-Crop classification of Chamap
+Crop classification of the south side of the urbana champaign area using satellite images.
