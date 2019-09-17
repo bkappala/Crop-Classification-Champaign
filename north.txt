@@ -1,0 +1,43 @@
+Driver: GTiff/GeoTIFF
+Files: 20130824_RE3_3A_Analytic_Champaign_north.tif
+Size is 9425, 5959
+Coordinate System is:
+PROJCS["WGS 84 / UTM zone 16N",
+    GEOGCS["WGS 84",
+        DATUM["WGS_1984",
+            SPHEROID["WGS 84",6378137,298.257223563,
+                AUTHORITY["EPSG","7030"]],
+            AUTHORITY["EPSG","6326"]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]],
+        AUTHORITY["EPSG","4326"]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["latitude_of_origin",0],
+    PARAMETER["central_meridian",-87],
+    PARAMETER["scale_factor",0.9996],
+    PARAMETER["false_easting",500000],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]],
+    AXIS["Easting",EAST],
+    AXIS["Northing",NORTH],
+    AUTHORITY["EPSG","32616"]]
+Origin = (374275.000000000000000,4473880.000000000000000)
+Pixel Size = (5.000000000000000,-5.000000000000000)
+Metadata:
+  AREA_OR_POINT=Area
+Image Structure Metadata:
+  INTERLEAVE=PIXEL
+Corner Coordinates:
+Upper Left  (  374275.000, 4473880.000) ( 88d28'54.02"W, 40d24'21.77"N)
+Lower Left  (  374275.000, 4444085.000) ( 88d28'32.97"W, 40d 8'15.73"N)
+Upper Right (  421400.000, 4473880.000) ( 87d55'35.01"W, 40d24'42.59"N)
+Lower Right (  421400.000, 4444085.000) ( 87d55'21.85"W, 40d 8'36.35"N)
+Center      (  397837.500, 4458982.500) ( 88d12' 6.01"W, 40d16'30.31"N)
+Band 1 Block=9425x1 Type=UInt16, ColorInterp=Gray
+Band 2 Block=9425x1 Type=UInt16, ColorInterp=Undefined
+Band 3 Block=9425x1 Type=UInt16, ColorInterp=Undefined
+Band 4 Block=9425x1 Type=UInt16, ColorInterp=Undefined
+Band 5 Block=9425x1 Type=UInt16, ColorInterp=Undefined
